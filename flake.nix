@@ -1,4 +1,4 @@
-// Don't worry about the FIXME's for now, I'm working on disk partitioning first
+# Don't worry about the FIXME's for now, I'm working on disk partitioning first
 {
   description = "Your new nix config";
 
